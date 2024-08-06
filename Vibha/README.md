@@ -1,1 +1,0 @@
-# durgeshanalyst.github.io
