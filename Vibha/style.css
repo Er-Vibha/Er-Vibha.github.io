@@ -381,19 +381,22 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .SQL::before{
-    width: 85%;
+    width: 60%;
 }
-.skills-content .right .Python::before{
+.skills-content .right .Java::before{
     width: 80%;
 }
-.skills-content .right .Excel::before{
-    width: 90%;
+.skills-content .right .Spring::before{
+    width: 70%;
 }
-.skills-content .right .tableau::before{
+.skills-content .right .Mule::before{
     width: 75%;
 }
-.skills-content .right .ML::before{
-    width: 60%;
+.skills-content .right .HTML::before{
+    width: 70%;
+}
+.skills-content .right .AMS::before{
+    width: 80%;
 }
 
 /* project section styling */
